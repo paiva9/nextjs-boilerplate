@@ -1,4 +1,4 @@
-# NextJS Boilerplate
+# NextJS Boilerplate [![codecov](https://codecov.io/gh/charllespaiva/nextjs-boilerplate/branch/main/graph/badge.svg?token=NW449BSNBP)](https://codecov.io/gh/charllespaiva/nextjs-boilerplate)
 
 ## What is inside?
 
